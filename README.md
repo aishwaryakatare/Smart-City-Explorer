@@ -15,4 +15,4 @@ Smart City Explorer is a web application designed to provide detailed insights i
 
 ## Inteface
 
-![RFM Analysis](https://github.com/aishwaryakatare/Customer-Segmentation-and-Sales-Analysis-Dashboard/blob/5dc4d8cbd6b45dc9b23b99fd0f865cae6b2be89f/Customer%20Segmentation/Dashboard/Dashbord-Overview.png)
+![RFM Analysis](https://github.com/aishwaryakatare/Smart-City-Explorer/blob/8e6fbe2680727150cf1036e93d370f4431a443c2/smart%20city/Images/b.png)
