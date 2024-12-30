@@ -3,9 +3,9 @@ Smart City Explorer is a web application designed to provide detailed insights i
 
 ## Features
 
--**City Information** : Explore essential details about colleges, cafes, tourist attractions, and banks in each city.
--**User-Friendly Interface** : Interactive design for seamless navigation.
--**Database Integration** : Secure storage of user data for personalized experiences.
+- **City Information** : Explore essential details about colleges, cafes, tourist attractions, and banks in each city.
+- **User-Friendly Interface** : Interactive design for seamless navigation.
+- **Database Integration** : Secure storage of user data for personalized experiences.
 
 ## Technologies Used
 
