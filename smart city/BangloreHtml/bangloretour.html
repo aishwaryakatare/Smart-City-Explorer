@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tourist1</title>
+    <link rel="stylesheet" href="..\CSS\tourist.css">
+</head>
+<body>
+    <h1>Places of Interest</h1>
+    <div class="container">
+        <div class="image-card">
+            <img src="..\Images\btour1.png" onclick="tour1();" alt="loading">
+            <div class="location-name">Lalbagh</div>
+        </div>
+        <div class="image-card">
+            <img src="..\Images\btour2.jpg" onclick="tour2();" alt="loading">
+            <div class="location-name">Zoo</div>
+        </div>
+        <div class="image-card">
+            <img src="..\Images\btour3.jpg" onclick="tour3();" alt="loading">
+            <div class="location-name">Madikeri</div>
+        </div>
+    </div>
+    
+    <script>
+        function tour1() {
+            window.location = "lalbagh.html";
+        }
+        function tour2() {
+            window.location = "zoo.html";
+        }
+        function tour3() {
+            window.location = "madkeri.html";
+        }
+    </script>
+</body>
+</html>
