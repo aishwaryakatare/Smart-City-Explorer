@@ -14,4 +14,5 @@ Smart City Explorer is a web application designed to provide detailed insights i
 - **Database**: MySQL
 
 ## Inteface
-![Smart City Explorer Interface]([images/smart_city_explorer_screenshot.png](https://github.com/aishwaryakatare/Smart-City-Explorer/blob/d7599005c89c8dd96c9d0ea4539636061ce94667/smart%20city/Images/b.png))
+
+![RFM Analysis](https://github.com/aishwaryakatare/Customer-Segmentation-and-Sales-Analysis-Dashboard/blob/5dc4d8cbd6b45dc9b23b99fd0f865cae6b2be89f/Customer%20Segmentation/Dashboard/Dashbord-Overview.png)
