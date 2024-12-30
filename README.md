@@ -9,9 +9,9 @@ Smart City Explorer is a web application designed to provide detailed insights i
 
 ## Technologies Used
 
--**Frontend**: HTML, CSS, JavaScript
--**Backend**: PHP
--**Database**: MySQL
+- **Frontend**: HTML, CSS, JavaScript
+- **Backend**: PHP
+- **Database**: MySQL
 
 ## Inteface
-![Smart City Explorer Interface](images/smart_city_explorer_screenshot.png)
+![Smart City Explorer Interface]([images/smart_city_explorer_screenshot.png](https://github.com/aishwaryakatare/Smart-City-Explorer/blob/d7599005c89c8dd96c9d0ea4539636061ce94667/smart%20city/Images/b.png))
