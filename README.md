@@ -15,4 +15,4 @@ Smart City Explorer is a web application designed to provide detailed insights i
 
 ## Inteface
 
-![RFM Analysis](https://github.com/aishwaryakatare/Smart-City-Explorer/blob/8e6fbe2680727150cf1036e93d370f4431a443c2/smart%20city/Images/b.png)
+![Interface](https://github.com/aishwaryakatare/Smart-City-Explorer/blob/8e6fbe2680727150cf1036e93d370f4431a443c2/smart%20city/Images/b.png)
