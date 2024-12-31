@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tourist1</title>
+    <link rel="stylesheet" href="..\CSS\tourist.css">
+</head>
+<body>
+    <h1>Places of Interest</h1>
+    <div class="container">
+        <div class="image-card">
+            <img src="..\Images\mtour1.jpg" onclick="gateway();" alt="loading">
+            <div class="location-name">Gateway of India</div>
+        </div>
+        <div class="image-card">
+            <img src="..\Images\mtour2.webp" onclick="esselworld();" alt="loading">
+            <div class="location-name">Essel World</div>
+        </div>
+        <div class="image-card">
+            <img src="..\Images\mtour3.jpg" onclick="park();" alt="loading">
+            <div class="location-name">Sanjay Gandhi National Park</div>
+        </div>
+    </div>
+    
+    <script>
+        function gateway() {
+            window.location = "gatewayofIndia.html";  // Use forward slashes
+        }
+        function esselworld() {
+            window.location = "esselworls.html";  // Correct the path here too
+        }
+        function park() {
+            window.location = "sanjaygandhi.html";  // Correct the path
+        }
+    </script>
+</body>
+</html>
